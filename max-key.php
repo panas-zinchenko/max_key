@@ -1,6 +1,6 @@
 <?php
 
-$string = "Php,Pascal,Html,Python,Java,JavaScript";
+$string = "Php,Pascal,JavaScript,Html,Python,Java";
 
 $array = explode(',', $string);
 
