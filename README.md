@@ -9,6 +9,6 @@
     
     #2
         2.1 copy the project code
-        2.2 follow the link https://www.tutorialspoint.com/execute_php_online.php
+        2.2 follow the link https://repl.it/languages/php_cli
         2.3 paste the code into editor
         2.4 run the code

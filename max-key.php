@@ -1,6 +1,6 @@
 <?php
 
-$string = "Php,Pascal,JavaScript,Html,Python,Java";
+$string = readline("enter words by the comma: ");      
 
 $array = explode(',', $string);
 
